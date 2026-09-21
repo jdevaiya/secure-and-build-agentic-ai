@@ -5,6 +5,8 @@ langchain-groq
 python-dotenv
 langchain-google-genai
 google-genai
+huggingface_hub
+langchain-huggingface
 
 ipykernel
 pydantic

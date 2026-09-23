@@ -19,3 +19,4 @@ typing
 
 langgraph
 langsmith
+python-dotenv

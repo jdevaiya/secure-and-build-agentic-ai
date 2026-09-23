@@ -1,3 +1,5 @@
+# for my Langchain and its usage
+
 langchain
 langchain-community
 langchain-openai
@@ -12,3 +14,8 @@ ipykernel
 pydantic
 
 typing
+
+# for my LangGraph and its usage
+
+langgraph
+langsmith

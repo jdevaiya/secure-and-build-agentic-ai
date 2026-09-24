@@ -20,3 +20,4 @@ typing
 langgraph
 langsmith
 python-dotenv
+langchain-tavily

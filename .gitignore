@@ -2,3 +2,7 @@
 **/.env
 
 /.vscode
+
+
+/02_langgraph/debugging/__pycache__
+/02_langgraph/debugging/.langgraph_api

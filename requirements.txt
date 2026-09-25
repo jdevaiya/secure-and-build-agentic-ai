@@ -21,3 +21,9 @@ langgraph
 langsmith
 python-dotenv
 langchain-tavily
+langgraph-cli[inmem]
+
+# for mcp server 
+
+langchain-mcp-adapters
+mcp

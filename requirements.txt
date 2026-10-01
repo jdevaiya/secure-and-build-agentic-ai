@@ -27,3 +27,10 @@ langgraph-cli[inmem]
 
 langchain-mcp-adapters
 mcp
+
+
+# for langsmith 
+
+langchain-text-splitters
+faiss-cpu
+streamlit

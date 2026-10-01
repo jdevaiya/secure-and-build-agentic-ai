@@ -34,3 +34,10 @@ mcp
 langchain-text-splitters
 faiss-cpu
 streamlit
+
+
+# pydentic logfire 
+
+logfire[httpx]
+
+sentence-transformers

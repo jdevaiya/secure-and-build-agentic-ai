@@ -5,11 +5,12 @@ langchain-community
 langchain-openai
 langchain-groq
 python-dotenv
+langchain_core
 langchain-google-genai
 google-genai
 huggingface_hub
 langchain-huggingface
-
+groq
 ipykernel
 pydantic
 
@@ -41,3 +42,8 @@ streamlit
 logfire[httpx]
 
 sentence-transformers
+
+# NEMO guardrails
+
+nemoguardrails
+fastembed

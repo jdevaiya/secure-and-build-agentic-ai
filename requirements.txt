@@ -47,3 +47,4 @@ sentence-transformers
 
 nemoguardrails
 fastembed
+asyncio
